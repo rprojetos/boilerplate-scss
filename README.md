@@ -1,7 +1,7 @@
 <h1>
   Boilerplate Scss
 </h1>
-<p>Desenvolvido para ajudar outros devs na agilidade de seu código css/scss.</p>
+<p>Desenvolvido para prover agilidade no desenvolvimento de código css/scss.</p>
 ---
 
-Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
+Por ♥ Ricardo Poleto 👋 [Linkedin!](https://www.linkedin.com/in/ricardo-poleto/)
